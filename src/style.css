@@ -146,6 +146,7 @@ input-area > div {
   font-weight: 400;
   display: flex;
   align-items: center;
+  width: 9.5rem;
 }
 
 #currency-list > li > img {
@@ -155,8 +156,8 @@ input-area > div {
 #currency-list > li > span {
   font-size: 0.8rem;
   color: var(--yellow);
-  margin-left: 1.6rem;
-  margin-right: 0.5rem;
+  width: 6rem;
+  text-align: right;
 }
 
 .footer {
@@ -212,11 +213,6 @@ input-area > div {
   #currency-title {
     font-size: 1.1rem;
     margin-bottom: 0.8rem;
-  }
-
-  #currency-list > li > span {
-    margin-left: 1.3rem;
-    margin-right: 0.1rem;
   }
 
   .footer {
