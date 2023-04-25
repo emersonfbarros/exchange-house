@@ -199,8 +199,13 @@ input-area > div {
     justify-content: flex-start;
   }
 
+  .title-box , main {
+    width: 94%;
+  }
+
   .title {
     font-size: 1.95rem;
+    text-align: center;
   }
 
   .input-area {
@@ -220,8 +225,8 @@ input-area > div {
   }
 
   .currency-board {
-    height: 73vh;
-    padding: 0.8rem;
+    height: 70vh;
+    padding: 0.6rem;
   }
 
   #currency-title {
