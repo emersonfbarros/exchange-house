@@ -184,8 +184,13 @@ input-area > div {
   height: 1rem;
 }
 
+.swal2-popup {
+  background-color: #282C33;
+  color: white;
+}
+
 .swal2-styled.swal2-confirm {
-  background-color: var(--green);
+  background-color: #96EB95;
   color: #373737;
 }
 

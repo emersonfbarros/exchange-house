@@ -1,5 +1,4 @@
 import Swal from 'sweetalert2/dist/sweetalert2.all';
-import '@sweetalert2/theme-dark';
 import './style.css';
 import fetchCoins from './api/api';
 import { renderBoard, clearBoard } from './components';
