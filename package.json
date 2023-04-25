@@ -1,0 +1,23 @@
+{
+  "name": "exchange-house",
+  "version": "1.0.0",
+  "description": "Basic site to compare the exchange rate of a currency with any other currency in the world.",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite --open",
+    "lint": "eslint ./src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@trybe/eslint-config-frontend": "^1.10.0",
+    "vite": "^4.3.1"
+  },
+  "dependencies": {
+    "@sweetalert2/theme-dark": "^5.0.15",
+    "sweetalert2": "^11.7.3"
+  },
+  "type": "module"
+}
